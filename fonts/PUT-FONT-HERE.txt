@@ -1,0 +1,9 @@
+Logo font: Bubble Sans X by AbayEmes — SIL Open Font License (free for personal & commercial use).
+Download: https://www.fontspace.com/bubble-sans-x-font-f159983
+
+Put ONE of these files in this folder (exact name):
+  BubbleSansX.woff2   (smallest — convert at any OTF→WOFF2 converter)
+  BubbleSansX.otf
+  BubbleSansX.ttf
+
+Until the file is here, the logo uses the similar rounded "Fredoka" font from Google Fonts.
